@@ -1,0 +1,31 @@
+//Testing Data For Third Smallest
+     int[] arr1 ={5,10,3,0,-2,4,-2};
+     int[] arr2 ={0,2,3,4,-2,5};
+
+//Testing Data For Sub Array
+      int [] arr = {20,10,3,7,50,40,90};
+        int k= 3;
+        int e = 10;
+
+
+        int [] arr = {1,1,1,1,1};
+        int k= 5;
+        int e = 7;
+
+
+        int [] arr = {1,1,1,1,1};
+        int k= 5;
+        int e = 10;
+
+        int [] arr = {20,10,3,7,1,2,3};
+        int k= 3;
+        int e = 10;
+
+        int [] arr = {Integer.MAX_VALUE,10,3,7,50,40,90};
+        int k= 3;
+        int e = 50;
+
+                 
+        int [] arr = {Integer.MAX_VALUE,Integer.MIN_VALUE,0,7,50,40,90};
+        int k= 3;
+        int e = 50;
